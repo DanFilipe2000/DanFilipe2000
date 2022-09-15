@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Desenvolvimento Web na <a href="betrybe.com">TRYBE</a>.
