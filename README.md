@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Desenvolvimento Web na <a href="betrybe.com">TRYBE</a>.
-- 💼 &nbsp; Em busca de trabalho na área de desenvolvimento
+- 💼 &nbsp; Em busca da minha primeira oportunidade no mercado de desenvolvimento de software
 - 🌱 &nbsp; Aprendendo mais sobre TypeScript e me aprimorando em Back-End
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
