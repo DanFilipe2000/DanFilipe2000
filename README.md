@@ -1,13 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
-<h3> :man: &nbsp;Sobre mim </h3>
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Desenvolvimento Web na <a href="betrybe.com">TRYBE</a>.
-- 💼 &nbsp; Em busca da minha primeira oportunidade no mercado de desenvolvimento de software
-- 🌱 &nbsp; Aprendendo mais sobre TypeScript e me aprimorando em Back-End
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
