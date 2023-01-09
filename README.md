@@ -1,13 +1,13 @@
 <h3> 🤙 Sobre mim </h3>
   Sou estudante de Desenvolvimento de Software com ênfase em Web Apps e API's, tenho uma breve experiência profissinal como freelancer pela 99Freelas e uma vontade veemente de me inserir no mercado de trabalho e poder impactar a vida das pessoas através dos meus códigos.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Daniel Filipe](https://img.shields.io/badge/-danielfsmiguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfsmiguel/)](https://www.linkedin.com/in/danielfsmiguel/)
 [![Gmail Badge](https://img.shields.io/badge/-danielfsmiguel@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfsmiguel@gmail.com)](mailto:danielfsmiguel@gmail.com)
 [![GitHub Daniel Filipe]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/DanFilipe2000)
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Front-End**
 
