@@ -3,6 +3,12 @@
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Daniel Filipe](https://img.shields.io/badge/-danielfsmiguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfsmiguel/)](https://www.linkedin.com/in/danielfsmiguel/)
+[![Gmail Badge](https://img.shields.io/badge/-danielfsmiguel@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfsmiguel@gmail.com)](mailto:danielfsmiguel@gmail.com)
+[![GitHub Daniel Filipe]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/DanFilipe2000)
+
 **Front-End**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -40,9 +46,3 @@
 </a>
 
 <br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Daniel Filipe](https://img.shields.io/badge/-danielfsmiguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfsmiguel/)](https://www.linkedin.com/in/danielfsmiguel/)
-[![Gmail Badge](https://img.shields.io/badge/-danielfsmiguel@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielfsmiguel@gmail.com)](mailto:danielfsmiguel@gmail.com)
-[![GitHub Daniel Filipe]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/DanFilipe2000)
