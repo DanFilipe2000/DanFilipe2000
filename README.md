@@ -11,6 +11,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 **Back-End**
+
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Node.Js](https://img.shields.io/badge/-Node.Js-333333?style=flat&logo=node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
