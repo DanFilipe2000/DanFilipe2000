@@ -1,5 +1,5 @@
 <h3> 🤙 Sobre mim </h3>
-  Sou estudante de Desenvolvimento de Software com ênfase em Web Apps e API's, tenho uma breve experiência profissinal como freelancer pela 99Freelas e uma vontade veemente de me inserir no mercado de trabalho e poder impactar a vida das pessoas através dos meus códigos.
+  Sou estudante de Desenvolvimento de Software com ênfase em Web Apps e API's, tenho uma breve experiência profissional como freelancer pela 99Freelas e uma vontade veemente de me inserir no mercado de trabalho e poder impactar a vida das pessoas através dos meus códigos.
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
