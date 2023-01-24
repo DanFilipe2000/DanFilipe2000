@@ -18,9 +18,13 @@
 
 **Back-End**
 
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Node.Js](https://img.shields.io/badge/-Node.Js-333333?style=flat&logo=node.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
+  **Banco de Dados**
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
