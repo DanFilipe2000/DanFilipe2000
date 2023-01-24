@@ -25,6 +25,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
   **Banco de Dados**
+  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
