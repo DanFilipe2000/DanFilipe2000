@@ -1,5 +1,5 @@
 <h3> 🤙 Sobre mim </h3>
-  Sou estudante de Desenvolvimento de Software com ênfase em Web Apps e API's, tenho uma breve experiência profissional como freelancer e uma vontade veemente de me inserir no mercado de trabalho e poder impactar a vida das pessoas através dos meus códigos.
+  Sou estudante universitário de Computação na Universidade de Brasília, tenho experiência profissional como freelancer construindo web apps para diversos clientes pelo Brasil. No momento estou em busca de uma experiência formal no mercado de tecnologia.
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
