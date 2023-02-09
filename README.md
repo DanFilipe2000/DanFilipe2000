@@ -43,5 +43,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanFilipe2000&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
